@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Currently working on my read me
+- I am currently studying computer programming. I also did a diploma of professional studies in graphic design. I am passionate about design and programming. I like video games and pixel art.
 
 #### Languages:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
