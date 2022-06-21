@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-TEXT here
-
-
 - 💻 Currently working on my read me
-
-**My Reseach Interest**:
-- Game
-
 
 #### Languages:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
