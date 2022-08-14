@@ -6,16 +6,14 @@
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=fiascko&theme=dark&show_icons=true)](https://github.com/fiascko/github-readme-stats">
 </div>
 
-<div align="center" margin-top="5px">
-  #### Languages:
-  - HTML/CSS
-  - Java
-  - JavaScript
-  - C#
-  - Kotlin
-  - SQL
-  - Vue
-  - TypeScript
-  - Bash
-</div>
+#### Languages:
+- HTML/CSS
+- Java
+- JavaScript
+- C#
+- Kotlin
+- SQL
+- Vue
+- TypeScript
+- Bash
 
