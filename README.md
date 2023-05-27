@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-- I am currently studying computer programming. I also did a diploma of professional studies in graphic design. I am passionate about design and programming. I like video games and pixel art.
+- I'm  Fiascko! I'm a passionate programmer and graphic designer with a love for creating visually appealing and functional projects. I enjoy bringing ideas to life through coding and design, and I'm constantly exploring new technologies and techniques to expand my skill set.
 
 #### Languages:
-- HTML/CSS
-- Java
-- JavaScript
+- BASH
 - C#
-- Kotlin
-- SQL
-- Vue
-- TypeScript
-- Bash
+- HTML/CSS
+- PUG
+- JAVA
+- JAVASCRIPT
+- KOTLIN
 - PHP
-- Mongo
-
+- UML
+- XML
+- SQL
+- NOSQL
