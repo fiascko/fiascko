@@ -5,5 +5,5 @@
 - 💻 Full Stack Web Developer
 - 🚀 Independent Game Developer
 - 🎮 Creator of the game **Spheric Bombs**
-- Available on [Steam] https://store.steampowered.com/app/2771650/Spheric_Bombs/
+- Available on Steam https://store.steampowered.com/app/2771650/Spheric_Bombs/
 
